@@ -1,0 +1,40 @@
+#--------------------------------------------------------#
+# Last Update: 30-11-2022 with 41.125 domains
+# MIT License: Copyright (c) 2022 ZangadoProjets
+# https://github.com/zangadoprojets/pi-hole-blocklist
+# Report if you find a problem or want to add an address.
+#--------------------------------------------------------#
+
+
+vault.bitwarden (gerador de senha?)
+	cofre bitwarden
+play.pokemonshowdown.com
+discord.com
+globe.org
+futemax.app
+promo-br.betano.com
+bet365.com
+palmeiras.com.br
+kto.com
+gartic.com.br
+1001jogos.com.br
+steam.com 
+skidrowreloaded.com
+rockstargames
+free-litecoin.com
+br.investing.com
+binance.com
+worldoftanks.com
+aliexpress.com
+twitch.tv
+litecoin.com
+skinsmonkey.com
+jogos360.com.br
+roblox.com
+ufreegames.com
+osu.ppy.sh
+frivjogosonline.com.br
+meninasjogos.com.br
+amorenostrum.com
+buzzfeed
+https://poki.com.br/minigames
