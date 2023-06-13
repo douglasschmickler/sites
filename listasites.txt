@@ -6,8 +6,7 @@
 #--------------------------------------------------------#
 
 
-vault.bitwarden (gerador de senha?)
-	cofre bitwarden
+vault.bitwarden.com
 play.pokemonshowdown.com
 discord.com
 globe.org
